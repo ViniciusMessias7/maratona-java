@@ -30,9 +30,49 @@
 
 * Operadores que fazem calculos aritméticos
 * `+` `-` `/` `*`
+* Operação entre 2 numeros inteiro o resultado é sempre inteiro
+* `%` resto da divisão > pode verificar por exemplo se um número é par ou impar
+
+### Operadores relacionais
+
+* Retornam valor boolean = true / false
+
+* |`<`|`>`|`<=`|`>=`|`==`|`!=`|
+        |---|---|--|--|--|----------|
+  | menor | maior |menor ou igual|maior ou igual|igual| diferente |
+
+### Operadores Lógicos
+
+* Fazem sentido com estruturas condicionais
+* and(&&) OR(||) !
+* vou pra festa && se eu for maior de idade
+* vou pra festa || ou ficar em casa
+
+### Operadores atribuição
+
+* Atribui algo a variavel
+* `=` `+=` `*=` `/=` `%=`
+
+### Operador ternario
+
+* Usado pra simplificar if e else, associa um valor a uma variavel ou metodo
+* syntax: String resultado = (condicao) ? verdadeiro : falso;
+
+### Switch
+
+* Funcionalidade simples, pra organizar condicionais simples(escolhas simples)
+
+## Estrutura condicional
+* Resultado tem que ser boolean = true ou false
+* dentro dos parenteses tem que validar true pro if funcionar, if também tem bloco
 
 
-<br /> 
+## Contador
+* `++` `--`
+* contador++ = primeiro imprime e depois incrementa mais 1.
+* 
+
+  <br />
 
 <h1 style="text-align: left;">Assuntos gerais</h1>
 
