@@ -24,6 +24,16 @@
 
 <br /> 
 
+<h1 style="text-align: left;">Assuntos específicos</h1>
+
+### Operador Aritmético
+
+* Operadores que fazem calculos aritméticos
+* `+` `-` `/` `*`
+
+
+<br /> 
+
 <h1 style="text-align: left;">Assuntos gerais</h1>
 
 ### Conversão de binario para decimal:
@@ -168,6 +178,7 @@
 * Conselho: os métodos publicos devem ter comentários javadoc é uma boa prática!
 
 ## Porque em byte o valor máximo positivo é -128 até 127? Porque não pode ir também ate 128?
-* 127 = 01111111 
+
+* 127 = 01111111
 * -128 = 10000000
 * Entendeu?

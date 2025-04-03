@@ -1,4 +1,5 @@
 package academy.devdojo.maratonajava.introducao;
+
 /*
 Crie um programa que simula um dano causado por um campeão do LoL.
 
@@ -10,10 +11,9 @@ Crie um programa que simula um dano causado por um campeão do LoL.
 public class Exercicio05MisturandoTudo {
     public static void main(String[] args) {
         int baseDamage = 70;
-        double multiply = 1.25;
-        double baseDamageConversion = baseDamage;
-        double finalDamage = baseDamageConversion * multiply;
-        baseDamage = (int) finalDamage;
-        System.out.println(baseDamage);
+        double multiplier = 1.25;
+        double finalDamage = ((double) baseDamage) * multiplier;
+        int finalDamageConvertedToInt = (int) finalDamage;
+        System.out.println(finalDamageConvertedToInt);
     }
 }
