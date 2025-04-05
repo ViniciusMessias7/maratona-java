@@ -58,19 +58,26 @@
 * Usado pra simplificar if e else, associa um valor a uma variavel ou metodo
 * syntax: String resultado = (condicao) ? verdadeiro : falso;
 
-### Switch
-
-* Funcionalidade simples, pra organizar condicionais simples(escolhas simples)
-
-## Estrutura condicional
+### Estrutura condicional
 * Resultado tem que ser boolean = true ou false
 * dentro dos parenteses tem que validar true pro if funcionar, if também tem bloco
+
+### Switch
+* Funcionalidade simples, pra organizar condicionais simples(escolhas simples)
+
+### Estrutura de repetição
+* while, do while, for
+* itera sobre algo
+* ex: caso queira fazer o computador contar de 1 a 10, precisa especificar até quando quer fazer x ação prq se não rodara infinitamente
+* o resultado tem que ser boolean
+* for é mais utilizado pra contagem, uma lista de valores de 10 nomes e vai de 1 em 1
 
 
 ## Contador
 * `++` `--`
 * contador++ = primeiro imprime e depois incrementa mais 1.
-* 
+
+
 
   <br />
 
