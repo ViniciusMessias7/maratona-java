@@ -80,6 +80,26 @@
 
 
   <br />
+<h1 style="text-align: left;">Java Core</h1>
+
+### Orientação a objetos
+* Função: mapear o mundo real pro computacional
+* Classe é a forma ela define o tipo de objeto ou seja um modelo para criar objetos com caracteristicas iguais
+* Dentro dela tem as caracteristicas que seriam o objeto
+* Objetos: diferentes dados guardados em um mesmo espaço em memoria
+* 
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h1 style="text-align: left;">Assuntos gerais</h1>
 
